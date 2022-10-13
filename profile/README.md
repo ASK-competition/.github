@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-We are ASK! A Data analysis/visualization team, winning multiple competitions through out our college student days 😎
+We are ASK! A Data analysis/visualization team.
+We've won multiple competitions through out our college days 😎
 
 <!--
 
